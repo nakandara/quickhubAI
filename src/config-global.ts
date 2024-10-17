@@ -3,8 +3,8 @@ import { paths } from 'src/routes/paths';
 // API
 // ----------------------------------------------------------------------
 
-export const HOST_API = 'https://api-dev-minimal-v510.vercel.app';
-export const ASSETS_API = 'https://api-dev-minimal-v510.vercel.app';
+export const HOST_API = 'https://worldadd-api.vercel.app';
+export const ASSETS_API = 'https://worldadd-api.vercel.app';
 
 export const FIREBASE_API = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
